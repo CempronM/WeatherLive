@@ -1,4 +1,4 @@
-#(c) 2024 Cempron Maynard
+#(c) 2024 Ken Cagabhion
 # This program is a terminal-based weather viewer
 
 import os
