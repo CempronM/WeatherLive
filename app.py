@@ -1,4 +1,4 @@
-#(c) 2024 Ken Cagabhion
+#(c) 2024 Cempron Maynard
 # This program is a terminal-based weather viewer
 
 import os
@@ -152,4 +152,4 @@ def main():
 
 
 if __name__ == "__main__":
-	main()
+    main()
